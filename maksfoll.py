@@ -1,0 +1,1 @@
+print('maks foll')
